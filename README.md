@@ -8,7 +8,7 @@
 
 - **Lenguajes**: Python, JavaScript, HTML, CSS
 - **Frameworks**: Django, React
-- **Bases de datos**: SQLite3, Firebase
+- **Bases de datos**: SQLite3, Firebase, MySQL
 - **Herramientas**: Git, GitHub, Firebase
 
 ---
@@ -25,17 +25,13 @@ Aplicación React + Firebase para la gestión de personajes de D&D 5e. Proyecto 
 
 ## 📊 Estadísticas de GitHub
 
-![IvanBasCub GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanBasCub&show_icons=true&theme=github_dark&count_private=true)
+![Mis estadísticas](<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivanBasCub_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ivan Bascones Cubillo"/>)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanBasCub&layout=compact&theme=github_dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanBasCub&layout=compact&theme=github_dark)
 
 ---
 
 ## 📫 Contacto
-
-- 📧 Email: ivanbas@outlook.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ivanbas)  
-- 🐦 [Twitter](https://twitter.com/ivanbas)  
 
 ---
 
