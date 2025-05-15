@@ -25,7 +25,7 @@ Aplicación React + Firebase para la gestión de personajes de D&D 5e. Proyecto 
 
 ## 📊 Estadísticas de GitHub
 
-![Mis estadísticas](<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivanBasCub&show icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="ivanBasCub"/>)
+![Mis estadísticas](<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivanBasCub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="ivanBasCub"/>)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanBasCub&layout=compact&theme=github_dark)
 
