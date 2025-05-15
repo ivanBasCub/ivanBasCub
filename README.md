@@ -13,6 +13,14 @@
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+![Mis estadísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=ivanBasCub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanBasCub&layout=compact&theme=github_dark)
+
+---
+
 ## 🚀 Proyectos destacados
 
 ### 🎮 [BattleZone](https://github.com/ivanBasCub/BattleZone)
@@ -20,14 +28,6 @@ Aplicación web para la gestión de torneos de videojuegos con Django y SQLite3.
 
 ### 🧙 [Imp_Pact_5e](https://github.com/ivanBasCub/Imp_Pact_5e)
 Aplicación React + Firebase para la gestión de personajes de D&D 5e. Proyecto de TFG.
-
----
-
-## 📊 Estadísticas de GitHub
-
-![Mis estadísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=ivanBasCub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanBasCub&layout=compact&theme=github_dark)
 
 ---
 
