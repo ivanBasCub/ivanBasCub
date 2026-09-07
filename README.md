@@ -156,8 +156,7 @@ The project explores extending an existing platform and developing custom functi
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="./profile/stats.svg" alt="GitHub Statistics"/>
-  <img height="180" src="./profile/top-langs.svg" alt="Top Languages"/>
+  <img src="./profile/github-stats.svg" alt="GitHub Statistics" />
 </p>
 
 ---
