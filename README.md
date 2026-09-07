@@ -141,18 +141,6 @@ It uses Django to handle the application's backend, data models and tournament-r
 
 ---
 
-### 🧙 D&D 5e Homebrew
-
-**[D&D 5e Homebrew](https://github.com/ivanBasCub/dnd5e-homebrow)** is a Foundry Virtual Tabletop module focused on custom D&D 5e content.
-
-The project explores extending an existing platform and developing custom functionality for tabletop gaming.
-
-**Technologies:** JavaScript · JSON · Foundry VTT
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)](https://github.com/ivanBasCub/dnd5e-homebrow)
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
